@@ -15,6 +15,6 @@ Como funciona el controlador Controlador L298N  https://www.youtube.com/watch?v=
 
 ## Arduino_CarroBlueTooth V1
 
-
+![IMG_7865](https://user-images.githubusercontent.com/7482699/87628574-dcfc5400-c6f6-11ea-94b5-e9c38251637a.jpg)
 
 ![IMG_7863](https://user-images.githubusercontent.com/7482699/87625791-a4f21280-c6f0-11ea-9347-a5be95a22d74.jpg)

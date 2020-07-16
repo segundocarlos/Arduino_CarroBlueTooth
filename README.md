@@ -11,4 +11,6 @@ Materiales:
 6. Condensador de 100 µF 
 7. Cables Conectores 
 
+Como funciona el controlador Controlador L298N  https://www.youtube.com/watch?v=c0L4gNKwjRw
+
 ![IMG_7863](https://user-images.githubusercontent.com/7482699/87625791-a4f21280-c6f0-11ea-9347-a5be95a22d74.jpg)
